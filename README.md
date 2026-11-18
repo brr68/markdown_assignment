@@ -10,11 +10,11 @@
 
 - Items, enemies, bosses, DLCs, music, attention to detail and etc.
 
-1 First you start and clear the first floor
-2 Obtain items and try not to get hurt
-3 Advance and obtain more items to become stronger
-4 Don't forget to minmax in order to be the nerd everyone hates
-5 Kill final bosses
+1. First you start and clear the first floor
+2. Obtain items and try not to get hurt
+3. Advance and obtain more items to become stronger
+4. Don't forget to minmax in order to be the nerd everyone hates
+5. Kill final bosses
 
 Just take a look at how many items there are omg!
 [Click me!](https://www.tboi.com/all-items)
@@ -38,7 +38,7 @@ g c330
 g c169
 
 ```
-Now you have ones of the best items in the game!
+Now you have some of the best items in the game!
 
 ### Even more things about the game! Wow! So much information!
 
@@ -51,4 +51,4 @@ Let's compare all the characters...
 Not biased at all!
 
 
-**That's the end, thanks for reading! Make sure to check out the game if you havent played it yet!** *(Rebith version with DLCs of course)*
+**That's the end, thanks for reading! Make sure to check out the game if you haven't played it yet!** *(Rebirth version with DLCs of course)*
