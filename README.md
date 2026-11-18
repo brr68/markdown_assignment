@@ -8,7 +8,7 @@
 
 ## So what's in TBOI?
 
--Items, enemies, bosses, DLCs, music, attention to detail and etc.
+- Items, enemies, bosses, DLCs, music, attention to detail and etc.
 
 - First you start and clear the first floor
 - Obtain items and try not to get hurt
@@ -22,7 +22,9 @@ Just take a look at how many items there are omg!
 ### Some other things about the game!
 
 If you're too bad at the game, you can open in-game console with ~ and run
+
 "debug 3" and "debug 4" to be strong and invincible! Or just "rewind" to go back to previous room.
+
 (Don't ask me how I know all of this!)
 
 Maybe you just want to not care about the game and be super op from the start? No problem, just copy and paste this into console!
@@ -42,7 +44,8 @@ Now you have ones of the best items in the game!
 
 Let's compare all the characters...
 
- 	| Everyone else | The Lost |
+| Everyone else | The Lost |
+|---------------|-------------|
 | Ok characters | Best character |
 
 Not biased at all!
