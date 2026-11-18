@@ -10,20 +10,20 @@
 
 - Items, enemies, bosses, DLCs, music, attention to detail and etc.
 
-- First you start and clear the first floor
-- Obtain items and try not to get hurt
-- Advance and obtain more items to become stronger
-- Don't forget to minmax in order to be the nerd everyone hates
-- Kill final bosses
+1 First you start and clear the first floor
+2 Obtain items and try not to get hurt
+3 Advance and obtain more items to become stronger
+4 Don't forget to minmax in order to be the nerd everyone hates
+5 Kill final bosses
 
 Just take a look at how many items there are omg!
 [Click me!](https://www.tboi.com/all-items)
 
 ### Some other things about the game!
 
-If you're too bad at the game, you can open in-game console with ~ and run
+If you're too bad at the game, you can open in-game console with `~` and run
 
-"debug 3" and "debug 4" to be strong and invincible! Or just "rewind" to go back to previous room.
+`debug 3` and `debug 4` to be strong and invincible! Or just `rewind` to go back to previous room.
 
 (Don't ask me how I know all of this!)
 
